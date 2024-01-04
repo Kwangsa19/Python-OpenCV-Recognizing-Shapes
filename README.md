@@ -1,6 +1,11 @@
 # Python-OpenCV-Recognizing-Shapes
 > This project is based on Coursera project course ("Recognizing shapes in images with OpenCV"). For full explanation and information, please visit this [link](https://www.coursera.org/projects/recognizing-shapes-images-opencv) to enroll the course. 
-> Here, I used OpenCV to load and compute an image from file, detect edges, recognize lines, blurred mode and circles. 
+> I utilized OpenCV to perform various image processing tasks, including:
+• Loading and displaying an image from a file
+• Detecting edges
+• Recognizing lines
+• Applying a blurring effect
+• Detecting circles
 
 ## Tasks
 
@@ -9,6 +14,7 @@ The following are what I did in this project:
 * Compute image gradients.
 * Detect edges in an image using Canny edge detection.
 * Recognize lines in an image using Hough transforms.
+* Applying a blurring effect.
 * Recognize circles in an image using Hough transforms.
 
 ## Requirements

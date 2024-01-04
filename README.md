@@ -1,5 +1,5 @@
 # Python-OpenCV-Recognizing-Shapes
-> This project is based on Coursera project course("Recognizing shapes in images with OpenCV"). For full explanation and information, please visit this [link](https://www.coursera.org/projects/recognizing-shapes-images-opencv) to enroll the course. 
+> This project is based on Coursera project course ("Recognizing shapes in images with OpenCV"). For full explanation and information, please visit this [link](https://www.coursera.org/projects/recognizing-shapes-images-opencv) to enroll the course. 
 > Here, I used OpenCV to load and compute an image from file, detect edges, recognize lines, blurred mode and circles. 
 
 ## Tasks
